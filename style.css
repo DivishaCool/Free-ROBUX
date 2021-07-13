@@ -1,0 +1,49 @@
+h1 {
+    color: #F44336;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+
+}
+
+body {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+
+}
+
+img {
+    height: 400px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+
+}
+
+button {
+    cursor: pointer;
+}
+
+body {
+    background: rgb(212, 153, 235);
+    background: linear-gradient(90deg, rgba(212, 153, 235, 1) 0%, rgba(255, 251, 143, 1) 58%, rgba(255, 92, 92, 1) 100%);
+}
+
+button {
+    background: black;
+    color: white;
+}
